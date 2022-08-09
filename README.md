@@ -21,8 +21,14 @@ Here are some ideas to get you started:
 ![Twitter Follow](https://img.shields.io/twitter/follow/barakplasma?style=social&style=flat&logoColor=white&color=6aa6f8)
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Libs-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Libs-Vue-informational?style=flat&logo=vue&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Libs-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
 
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
@@ -37,3 +43,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)

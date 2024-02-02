@@ -14,3 +14,4 @@
 |Tools|![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Stats-Code::Stats-informational?style=flat&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)|
 
 ## [Resume / CV](https://registry.jsonresume.org/barakplasma?theme=OnePage)
+<img src="https://img.shields.io/liberapay/gives/~1816973.svg?logo=liberapay">

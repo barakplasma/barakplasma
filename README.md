@@ -15,3 +15,4 @@
 
 ## [Resume / CV](https://registry.jsonresume.org/barakplasma?theme=OnePage)
 <img src="https://img.shields.io/liberapay/gives/~1816973.svg?logo=liberapay">
+![](https://github.r2v.ch/codewars?user=barakplasma)

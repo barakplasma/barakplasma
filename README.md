@@ -18,3 +18,4 @@
 ## Misc
 <img src="https://img.shields.io/liberapay/gives/~1816973.svg?logo=liberapay">
 <img src="https://github.r2v.ch/codewars?user=barakplasma">
+<img src="//ipv4.games/claim?name=barakplasma">

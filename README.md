@@ -14,7 +14,8 @@
 |DB|![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Pocketbase-informational?style=flat&logo=pocketbase&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Duckdb-informational?style=flat&logo=duckdb&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/CMS-Directus-informational?style=flat&logo=directus&logoColor=white&color=6aa6f8)|
 |Tools|![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)|
 
-## [Resume / CV](https://registry.jsonresume.org/barakplasma?theme=OnePage)
+## Resume / CV
+[link to Resume / CV](https://registry.jsonresume.org/barakplasma?theme=professional)
 
 ## Misc
 <img src="https://github.r2v.ch/codewars?user=barakplasma">

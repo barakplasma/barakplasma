@@ -1,9 +1,10 @@
 ### Hi there, my name is Michael 👋
 
 ## Contact Me
+![LinkedIn](https://img.shields.io/badge/LinkedIn--blue.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDM4MiAzODIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggc3R5bGU9ImZpbGw6IzAwNzdCNzsiIGQ9Ik0zNDcuNDQ1LDBIMzQuNTU1QzE1LjQ3MSwwLDAsMTUuNDcxLDAsMzQuNTU1djMxMi44ODlDMCwzNjYuNTI5LDE1LjQ3MSwzODIsMzQuNTU1LDM4MmgzMTIuODg5DQoJQzM2Ni41MjksMzgyLDM4MiwzNjYuNTI5LDM4MiwzNDcuNDQ0VjM0LjU1NUMzODIsMTUuNDcxLDM2Ni41MjksMCwzNDcuNDQ1LDB6IE0xMTguMjA3LDMyOS44NDRjMCw1LjU1NC00LjUwMiwxMC4wNTYtMTAuMDU2LDEwLjA1Ng0KCUg2NS4zNDVjLTUuNTU0LDAtMTAuMDU2LTQuNTAyLTEwLjA1Ni0xMC4wNTZWMTUwLjQwM2MwLTUuNTU0LDQuNTAyLTEwLjA1NiwxMC4wNTYtMTAuMDU2aDQyLjgwNg0KCWM1LjU1NCwwLDEwLjA1Niw0LjUwMiwxMC4wNTYsMTAuMDU2VjMyOS44NDR6IE04Ni43NDgsMTIzLjQzMmMtMjIuNDU5LDAtNDAuNjY2LTE4LjIwNy00MC42NjYtNDAuNjY2UzY0LjI4OSw0Mi4xLDg2Ljc0OCw0Mi4xDQoJczQwLjY2NiwxOC4yMDcsNDAuNjY2LDQwLjY2NlMxMDkuMjA4LDEyMy40MzIsODYuNzQ4LDEyMy40MzJ6IE0zNDEuOTEsMzMwLjY1NGMwLDUuMTA2LTQuMTQsOS4yNDYtOS4yNDYsOS4yNDZIMjg2LjczDQoJYy01LjEwNiwwLTkuMjQ2LTQuMTQtOS4yNDYtOS4yNDZ2LTg0LjE2OGMwLTEyLjU1NiwzLjY4My01NS4wMjEtMzIuODEzLTU1LjAyMWMtMjguMzA5LDAtMzQuMDUxLDI5LjA2Ni0zNS4yMDQsNDIuMTF2OTcuMDc5DQoJYzAsNS4xMDYtNC4xMzksOS4yNDYtOS4yNDYsOS4yNDZoLTQ0LjQyNmMtNS4xMDYsMC05LjI0Ni00LjE0LTkuMjQ2LTkuMjQ2VjE0OS41OTNjMC01LjEwNiw0LjE0LTkuMjQ2LDkuMjQ2LTkuMjQ2aDQ0LjQyNg0KCWM1LjEwNiwwLDkuMjQ2LDQuMTQsOS4yNDYsOS4yNDZ2MTUuNjU1YzEwLjQ5Ny0xNS43NTMsMjYuMDk3LTI3LjkxMiw1OS4zMTItMjcuOTEyYzczLjU1MiwwLDczLjEzMSw2OC43MTYsNzMuMTMxLDEwNi40NzINCglMMzQxLjkxLDMzMC42NTRMMzQxLjkxLDMzMC42NTR6Ii8+DQo8L3N2Zz4=&logoColor=blue&label=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichaelsalaverry%2F)
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=social&logo=devdotto&style=flat&logoColor=white&link=https://dev.to/barakplasma)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/barakplasma)
 
-[![Linkedin Badge](https://img.shields.io/badge/-MichaelSalaverry-blue?&style=flat&logoColor=white&color=6aa6f8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelsalaverry/)](https://www.linkedin.com/in/michaelsalaverry/) 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=social&logo=devdotto&style=flat&logoColor=white)](https://dev.to/barakplasma)
 
 ## 🔧 I like to use
 |Category|Tech|
@@ -16,6 +17,5 @@
 ## [Resume / CV](https://registry.jsonresume.org/barakplasma?theme=OnePage)
 
 ## Misc
-<img src="https://img.shields.io/liberapay/gives/~1816973.svg?logo=liberapay">
 <img src="https://github.r2v.ch/codewars?user=barakplasma">
 <img src="//ipv4.games/claim?name=barakplasma">

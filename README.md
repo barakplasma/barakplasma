@@ -31,7 +31,7 @@ practical internal tools that move fast.
 - **[in-person-queue](https://github.com/barakplasma/in-person-queue)** — Real-time in-person queue tracker built with WebSockets, Redis, and Express.
 - **[finite-state-machine](https://github.com/barakplasma/finite-state-machine)** — A small, typed finite state machine library written in TypeScript.
 - **[bakeapizza](https://github.com/barakplasma/bakeapizza)** — A toolkit for baking pizza at home ([bakea.pizza](https://bakea.pizza/)).
-- **[Browser-MQTT-Dashboard](https://github.com/barakplasma/Browser-MQTT-Dashboard)** — Realtime dashboard for MQTT messages relayed from a Tasmota ESP8266 sensor.
+- **[Browser-MQTT-Dashboard](https://github.com/barakplasma/Browser-MQTT-Dashboard)** — Real-time dashboard for MQTT messages relayed from a Tasmota ESP8266 sensor.
 
 ## 📫 Connect
 

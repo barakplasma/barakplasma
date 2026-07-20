@@ -27,9 +27,12 @@ practical internal tools that move fast.
 
 ## 📌 Featured Projects
 
+- **[media-clusterer](https://github.com/barakplasma/media-clusterer)** — In-browser AI media clusterer: WebGPU + Transformers.js embeddings and semantic search, running entirely locally ([live demo](https://barakplasma.github.io/media-clusterer/)).
+- **[Aura](https://github.com/barakplasma/Aura)** — Privacy-first browser monitoring that runs webcam frames through vision LLMs to detect conditions and trigger alerts/webhooks ([live demo](https://barakplasma.github.io/Aura/)).
+- **[FastGRPC](https://github.com/barakplasma/FastGRPC)** — Adds a gRPC server to any FastAPI app with no protobuf files — reads the OpenAPI spec at startup; ~4.5× faster than HTTP/JSON.
 - **[israel-weather-rs](https://github.com/barakplasma/israel-weather-rs)** — Rust library that fetches and parses weather forecasts from the Israel Meteorological Service into typed structs / JSON.
 - **[in-person-queue](https://github.com/barakplasma/in-person-queue)** — Real-time in-person queue tracker built with WebSockets, Redis, and Express.
-- **[Browser-MQTT-Dashboard](https://github.com/barakplasma/Browser-MQTT-Dashboard)** — Real-time dashboard for MQTT messages relayed from a Tasmota ESP8266 sensor.
+- **[humvee](https://github.com/barakplasma/humvee)** — HMMWV A2 driver-training game (TypeScript + Phaser): 10 progressive stages, bilingual EN/Hebrew, mixed real-photo + AI asset pipeline ([live demo](https://barakplasma.github.io/humvee/)).
 
 ## 📫 Connect
 

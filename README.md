@@ -1,6 +1,6 @@
 ### Hi, I'm Michael 👋
 
-**Staff AI Platform Engineer** building HIPAA-compliant AI systems and on-premise LLM inference.
+**Staff AI Platform Engineer** building HIPAA-compliant AI systems and on-premises LLM inference.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelsalaverry/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/barakplasma)

@@ -10,7 +10,7 @@
 ## About Me
 
 Staff AI Platform Engineer at QurisAI, where I focus on LLMOps, scalable web
-architecture, and on-premise AI inference for HIPAA-compliant systems.
+architecture, and on-premises AI inference for HIPAA-compliant systems.
 Previously worked on QuickBooks payments reliability at Intuit and web platforms
 at Wix. I care about test-driven development, self-hosting, and building
 practical internal tools that move fast.

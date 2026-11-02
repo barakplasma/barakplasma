@@ -25,14 +25,56 @@ practical internal tools that move fast.
 |Data|![](https://img.shields.io/badge/Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/DuckDB-informational?style=flat&logo=duckdb&logoColor=white&color=6aa6f8)|
 |DevOps|![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/K3s-informational?style=flat&logo=k3s&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)|
 
-## 📌 Featured Projects
+## 📌 Selected projects | פרויקטים נבחרים
 
-- **[media-clusterer](https://github.com/barakplasma/media-clusterer)** — In-browser AI media clusterer: WebGPU + Transformers.js embeddings and semantic search, running entirely locally ([live demo](https://barakplasma.github.io/media-clusterer/)).
-- **[Aura](https://github.com/barakplasma/Aura)** — Privacy-first browser monitoring that runs webcam frames through vision LLMs to detect conditions and trigger alerts/webhooks ([live demo](https://barakplasma.github.io/Aura/)).
-- **[FastGRPC](https://github.com/barakplasma/FastGRPC)** — Adds a gRPC server to any FastAPI app with no protobuf files — reads the OpenAPI spec at startup; ~4.5× faster than HTTP/JSON.
-- **[israel-weather-rs](https://github.com/barakplasma/israel-weather-rs)** — Rust library that fetches and parses weather forecasts from the Israel Meteorological Service into typed structs / JSON.
-- **[in-person-queue](https://github.com/barakplasma/in-person-queue)** — Real-time in-person queue tracker built with WebSockets, Redis, and Express.
-- **[humvee](https://github.com/barakplasma/humvee)** — HMMWV A2 driver-training game (TypeScript + Phaser): 10 progressive stages, bilingual EN/Hebrew, mixed real-photo + AI asset pipeline ([live demo](https://barakplasma.github.io/humvee/)).
+I build practical tools for everyday problems. Many run locally, work offline, or can be hosted on your own infrastructure.
+
+אני בונה כלים מעשיים לבעיות יומיומיות. רבים מהם פועלים מקומית, עובדים ללא אינטרנט או ניתנים לאירוח עצמאי.
+
+### 🖼️ [Media Clusterer](https://github.com/barakplasma/media-clusterer) · [Try it](https://barakplasma.github.io/media-clusterer/)
+
+Explore and search photos and videos by meaning in your browser. Your media stays on your device.
+
+חיפוש וחקירה של תמונות וסרטונים לפי משמעות, ישירות בדפדפן. הקבצים נשארים על המכשיר.
+
+### 📅 [Guard Shift Planner](https://github.com/barakplasma/guard)
+
+Build and share a shift schedule that considers availability, roles and rest.
+
+יצירה ושיתוף של סידור משמרות שמתחשב בזמינות, בתפקידים ובמנוחה.
+
+### ✍️ [Mishkefet — offline Docker fork](https://github.com/barakplasma/mishkefet-app)
+
+Hebrew and English handwriting recognition in the browser, packaged for offline self-hosting. Based on [Mishkefet](https://github.com/itayinbarr/mishkefet-app) by itayinbarr; my fork adds Docker packaging and an English model.
+
+זיהוי כתב יד בעברית ובאנגלית בדפדפן, באריזת Docker לאירוח מנותק. מבוסס על [משקפת](https://github.com/itayinbarr/mishkefet-app) מאת itayinbarr; הפיצול שלי מוסיף אריזת Docker ומודל לאנגלית.
+
+### 📷 [Aura](https://github.com/barakplasma/Aura) · [Try it](https://barakplasma.github.io/Aura/)
+
+Tell a camera what to watch for and what to do when it sees it. Use a local or remote vision model.
+
+מגדירים למצלמה מה לחפש ומה לעשות כשהיא מזהה אותו, עם מודל ראייה מקומי או מרוחק.
+
+### ⚡ [FastGRPC](https://github.com/barakplasma/FastGRPC)
+
+Add gRPC to a FastAPI app using its existing routes and models, without writing protobuf files by hand.
+
+הוספת gRPC ליישום FastAPI באמצעות הנתיבים והמודלים הקיימים, ללא כתיבה ידנית של קובצי protobuf.
+
+### 🧪 In development | בפיתוח
+
+- **Hazarot** — Team coordination rehearsals through simulated scenarios and debriefs. Early proof of concept.  
+  תרגול תיאום וקבלת החלטות צוותית באמצעות תרחישים מדומים ושיחת סיכום. אבטיפוס מוקדם.
+- **Private AI Translate** — Android translation focused on on-device AI and self-hosted options; a fork of TranslateYou.  
+  תרגום לאנדרואיד עם דגש על בינה מלאכותית מקומית ואירוח עצמי; מבוסס על TranslateYou.
+- **HF-Space-Offline** — Package Hugging Face Spaces and models for deployment on disconnected Kubernetes clusters.  
+  אריזת Hugging Face Spaces ומודלים לפריסה על אשכולות Kubernetes מנותקים.
+
+### More projects | פרויקטים נוספים
+
+- **[israel-weather-rs](https://github.com/barakplasma/israel-weather-rs)** — Rust library for Israel Meteorological Service forecasts. ספריית Rust לתחזיות השירות המטאורולוגי.
+- **[in-person-queue](https://github.com/barakplasma/in-person-queue)** — Real-time in-person queue tracker. מעקב בזמן אמת אחר תור פיזי.
+- **[humvee](https://github.com/barakplasma/humvee)** — Bilingual HMMWV driver-training game. משחק דו־לשוני לתרגול נהיגה בהאמר. [Play / למשחק](https://barakplasma.github.io/humvee/)
 
 ## 📫 Connect
 

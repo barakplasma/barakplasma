@@ -63,11 +63,13 @@ Add gRPC to a FastAPI app using its existing routes and models, without writing 
 
 ### 🧪 In development | בפיתוח
 
-- **Hazarot** — Team coordination rehearsals through simulated scenarios and debriefs. Early proof of concept.  
+*Repositories are currently private. / המאגרים כרגע פרטיים.*
+
+- **[Hazarot](https://github.com/barakplasma/hazarot)** — Team coordination rehearsals through simulated scenarios and debriefs. Early proof of concept.  
   תרגול תיאום וקבלת החלטות צוותית באמצעות תרחישים מדומים ושיחת סיכום. אבטיפוס מוקדם.
-- **Private AI Translate** — Android translation focused on on-device AI and self-hosted options; a fork of TranslateYou.  
+- **[Private AI Translate](https://github.com/barakplasma/PrivateAITranslate)** — Android translation focused on on-device AI and self-hosted options; a fork of TranslateYou.  
   תרגום לאנדרואיד עם דגש על בינה מלאכותית מקומית ואירוח עצמי; מבוסס על TranslateYou.
-- **HF-Space-Offline** — Package Hugging Face Spaces and models for deployment on disconnected Kubernetes clusters.  
+- **[HF-Space-Offline](https://github.com/barakplasma/HF-Space-Offline)** — Package Hugging Face Spaces and models for deployment on disconnected Kubernetes clusters.  
   אריזת Hugging Face Spaces ומודלים לפריסה על אשכולות Kubernetes מנותקים.
 
 ### More projects | פרויקטים נוספים
